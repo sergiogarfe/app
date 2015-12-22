@@ -1,1 +1,1 @@
-console.log("hello pubsub");
+console.log("hello pubsub!");
